@@ -95,8 +95,7 @@ If the test passes without errors, restart Nginx to apply the changes:
          Send
 
 
-
-  - [Simulation Setup](#simulation-setup)
+- [Simulation Setup](#simulation-setup)
 
 Setting up DDoS Attack Protection
 
